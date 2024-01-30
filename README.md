@@ -1,8 +1,6 @@
-# Drobitko-Bondarenko-Troszczylo Project
-
 ## Description
 
-The Drobitko-Bondarenko-Troszczylo Project is a comprehensive application involving game logic, user authentication, and RFID functionalities. It's designed to provide an interactive and user-friendly interface for managing game processes and user interactions.
+The Project is a comprehensive application involving game logic, user authentication, PostgreSQL database, and RFID functionalities. It's designed to provide an interactive and user-friendly interface for managing game processes and user interactions.
 
 ## Installation
 
